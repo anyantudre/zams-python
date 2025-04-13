@@ -46,7 +46,7 @@ Chaque module contient :
 - Des projets concrets pour appliquer vos connaissances
 
 
-## 📋 Programme du cours (provisoire)
+## 📋 Programme du cours 
 
 | N° | Module | Détails | Lien GitHub | Lien YouTube | Statut |
 |----|--------|---------|------------|-------------|--------|
