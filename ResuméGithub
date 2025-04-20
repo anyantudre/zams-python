@@ -1,1 +1,12 @@
 Resumé de la séance : 
+La différence entre git et github: git est un logiciel installé localement; AVec Git on peut créer un repository avec des lignes de commande
+ Ce sont: git init pour créer un nouveau depot ou repository;
+           git clone pour cloner un depot
+           git add pour ajouter à un depot un fichier
+           git restore pour un retour à l'initial'
+           git remove pour changer l'emplacement ou supprimer un depot ou un fichier'
+ 
+ Alors que Github est un site web où on cèe un compte , et on peut faire facilement tout ce qui se fait sur git sans utiliser les lignes des commandes. Son interface présente
+ les facilités pour créer , ajouter ou supprimer un depot.
+ 
+ Aussi on a vu l'importance de git ou github: platforme de collaboration; recuperation; sauvegarde etc'
