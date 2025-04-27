@@ -59,4 +59,5 @@ print("La somme de", a, "et", b, "est", somme)
 
 - Exercice 1: Écrire un programme qui demande le nom et l'âge de l'utilisateur, puis affiche un message personnalisé
 - Exercice 2: Créer une calculatrice simple qui effectue les 4 opérations de base
-- Lire le chapitre sur les variables et types de données 
+- Lire le chapitre sur les variables et types de données
+- J'ai modifié ce fichier
